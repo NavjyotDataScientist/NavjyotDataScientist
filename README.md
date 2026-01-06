@@ -28,10 +28,8 @@ You learn by improving what’s imperfect.”
 If you spot a mistake or see a better way to do something — **that’s a win for learning** 💡 See only what good things you take out from my account and learn by this apporach and become what you want in your life
 
 
-I am a **self-driven Data Science learner** focused on building strong fundamentals through  
-**real-world projects, structured methodologies, and continuous improvement**.
 
-I believe in **learning in public**, documenting my journey, and improving by specially after fall | feedback.
+.........................................improving by specially after fall | feedback.
 
 ## 🌱 Learning Philosophy
 
@@ -67,19 +65,6 @@ This repository will grow as my skills grow 📈
 
 ---
 
-## 🌱 Learning Philosophy
-
-> “Small projects. Honest mistakes. Continuous improvement.”
-
-- Start small  
-- Document everything  
-- Improve incrementally  
-- Learn from feedback  
-- Build consistency over perfection  
-
-This profile reflects **growth**, not just results.
-
----
 
 ## 🛠 Languages and Tools
 

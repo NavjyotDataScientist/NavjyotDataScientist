@@ -29,7 +29,7 @@ I believe in **learning in public**, documenting my journey, and improving by fe
 ## 🎯 What I’m Currently Doing
 
 - 📊 Building **small, focused Data Science projects** to master core concepts  
-- 🧠 Applying **CRISP-DM** methodology for structured problem-solving  
+- 🧠 Applying **CRISP-DM** methodology for structured problem-solving and also make use of cookie cutter structure
 - 🐍 Deepening my understanding of **Python, Pandas, and Machine Learning**  
 - 🎤 Practicing communication daily to grow as a **future TEDx speaker**  
 - 📺 Sharing my learning journey through **YouTube & GitHub**
@@ -81,9 +81,9 @@ This profile reflects **growth**, not just results.
 
 I actively share my learning journey and project explanations on YouTube:
 
-📺 **YouTube:** https://www.youtube.com/@NavjyotDataSscientist
+📺 **YouTube:** https://www.youtube.com/@DataScienceByNavjyot
 
-My goal is to **explain concepts simply**, especially for beginners.
+My goal is to **explain concepts simply**, especially for learner from scratch | beginners
 
 ---
 
@@ -101,8 +101,13 @@ Learning together always scales faster 🚀
 
 ## 📫 Connect With Me
 
-- 👨‍💻 GitHub: https://github.com/YOUR_USERNAME  
-- 📺 YouTube: https://www.youtube.com/@DataThinkers  
+## 🔹 Contact
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/protonmail/6D4AFF" width="20"/>
+  navjyot.dataarchitect@proton.me
+</p>
+
 
 ⭐ If you find value in my work, consider giving a star to the repositories.
 

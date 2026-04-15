@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Hola, Bonjour to all teams  
 
-### Data Scientist | Machine Learning Engineer & AI | TEDx Speaker 
+### Data Scientist | Machine Learning Engineer | TEDx Speaker 
 
 👉 These projects are **not perfect** — and that’s intentional 
 

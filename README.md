@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Bojour
 
 <!--
 **NavjyotDataScientist/NavjyotDataScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋, I'm Nav  
+# Hi , I'm Nav Hola, Bonjour to all teams  
 
 ### Data Scientist | Machine Learning Engineer & AI | TEDx Speaker 
 

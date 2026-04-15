@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Nav  
 
-### Aspiring Data Scientist | Machine Learning Engineer & AI | TEDx Speaker | English Learner
+### Data Scientist | Machine Learning Engineer & AI | TEDx Speaker 
 
 👉 These projects are **not perfect** — and that’s intentional 
 

@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi , I'm Nav Hola, Bonjour to all teams  
+# Hi , I'm Nav 
+
+Hola, Bonjour to all teams  
 
 ### Data Scientist | Machine Learning Engineer & AI | TEDx Speaker 
 
